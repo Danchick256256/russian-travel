@@ -1,0 +1,17 @@
+.cover {
+    max-height: 740px;
+    max-width: 1184px;
+    margin: 0 auto;
+    padding: 5.75rem 0 0;
+}
+
+.cover:hover {
+    background-blend-mode: darken;
+    opacity: 0.8;
+}
+
+@media screen and (max-width: 320px) {
+    .cover {
+        padding: 4.125rem 0 0;
+    }
+}

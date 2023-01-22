@@ -1,0 +1,10 @@
+.place__paragraph-container {
+    grid-column: 2;
+}
+
+@media screen and (max-width: 320px) {
+    .place__paragraph-container {
+        width: 320px;
+        grid-column: 1;
+    }
+}
