@@ -21,13 +21,8 @@
 
 @media screen and (max-width: 320px) {
     .place__paragraph-container-text {
-        font-style: normal;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 163%;
-
         width: 288px;
         padding-left: 16px;
-        margin-bottom: 0;
+        margin-bottom: 1.5625rem;
     }
 }

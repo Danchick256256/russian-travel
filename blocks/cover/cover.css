@@ -1,17 +1,16 @@
 .cover {
-    max-height: 740px;
-    max-width: 1184px;
-    margin: 0 auto;
+    color: white;
     padding: 5.75rem 0 0;
 }
 
-.cover:hover {
-    background-blend-mode: darken;
-    opacity: 0.8;
+@media screen and (max-width: 768px) {
+    .cover {
+        padding-top: 5.625rem;
+    }
 }
 
 @media screen and (max-width: 320px) {
     .cover {
-        padding: 4.125rem 0 0;
+        padding-top: 4.125rem;
     }
 }
