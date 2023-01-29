@@ -9,9 +9,9 @@
     padding: 1.3rem 0 0 0;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 570px) {
     .intro__text {
-        padding-top: 2.25rem;
+        padding-top: 1.3rem;
         margin-bottom: 0;
         padding-left: 1rem;
         align-self: start;

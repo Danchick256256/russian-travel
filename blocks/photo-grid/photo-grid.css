@@ -2,7 +2,6 @@
     display: grid;
     max-width: 100%;
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(auto-fit, 1fr);
     gap: 16px;
     padding: 5rem 3rem 0 3rem;
 }
@@ -20,7 +19,7 @@
     }
 }
 
-@media screen and (max-width: 520px) {
+@media screen and (max-width: 570px) {
     .photo-grid {
         padding: 3.25rem 0 0 0;
         width: 320px;

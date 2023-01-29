@@ -10,10 +10,10 @@
     padding-left: 0;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 570px) {
     .intro__list {
         padding-left: 1rem;
-        padding-top: 1.125rem;
+        padding-top: 1.2rem;
     }
 }
 

@@ -8,7 +8,7 @@
     margin: auto 0 auto;
 }
 
-@media screen and (max-width: 520px) {
+@media screen and (max-width: 570px) {
     .lead__title {
         margin-top: 0;
         margin-bottom: 0;
