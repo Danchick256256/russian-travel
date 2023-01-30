@@ -5,6 +5,7 @@
     font-size: 18px;
     text-decoration-line: underline;
     color: #FFFFFF;
+    margin-top: 0.75rem;
 }
 
 .place__link:hover {

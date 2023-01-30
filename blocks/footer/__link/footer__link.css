@@ -8,8 +8,18 @@
     padding: 0 1.125rem 0 0;
 }
 
+.footer__link:first-child {
+    padding-left: 3rem;
+}
+
 .footer__link:hover {
     opacity: 0.8;
+}
+
+@media screen and (max-width: 768px) {
+    .footer__link:first-child {
+        padding-left: 1.5rem;
+    }
 }
 
 @media screen and (max-width: 570px) {
@@ -21,5 +31,9 @@
 
     .footer__link:last-child {
         padding-bottom: 0;
+    }
+
+    .footer__link:first-child {
+        padding-left: 0rem;
     }
 }
