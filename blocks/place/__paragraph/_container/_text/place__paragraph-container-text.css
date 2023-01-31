@@ -12,6 +12,10 @@
     margin-bottom: 0;
 }
 
+.place__paragraph-container-text:last-child {
+    margin-bottom: 0;
+}
+
 @media screen and (max-width: 768px) {
     .place__paragraph-container-text {
         font-size: 16px;
