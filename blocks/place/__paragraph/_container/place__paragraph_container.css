@@ -1,9 +1,9 @@
-.place__paragraph-container {
+.place__paragraph_container {
     grid-column: 2;
 }
 
 @media screen and (max-width: 320px) {
-    .place__paragraph-container {
+    .place__paragraph_container {
         width: 320px;
         grid-column: 1;
     }

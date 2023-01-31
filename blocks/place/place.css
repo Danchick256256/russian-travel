@@ -29,5 +29,6 @@
     .place {
         grid-template-columns: minmax(min-content, max-content);
         gap: 2rem;
+        margin-bottom: 3.125rem;
     }
 }
