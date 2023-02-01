@@ -1,0 +1,10 @@
+.place__paragraph_wrapper {
+    grid-column: 2;
+}
+
+@media screen and (max-width: 720px) {
+    .place__paragraph_wrapper {
+        width: 320px;
+        grid-column: 1;
+    }
+}

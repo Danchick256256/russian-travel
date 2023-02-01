@@ -19,7 +19,7 @@
     }
 }
 
-@media screen and (max-width: 570px) {
+@media screen and (max-width: 720px) {
     .intro {
         max-width: 320px;
         width: 320px;

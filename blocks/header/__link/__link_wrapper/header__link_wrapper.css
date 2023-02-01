@@ -1,4 +1,4 @@
-.header__link-container {
+.header__link_wrapper {
     width: 78px;
     display: flex;
     justify-content: space-between;
@@ -6,7 +6,7 @@
 }
 
 @media screen and (max-width: 320px) {
-    .header__link-container {
+    .header__link_wrapper {
         font-size: 18px;
         line-height: 20px;
     }
