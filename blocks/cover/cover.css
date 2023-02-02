@@ -5,10 +5,15 @@
     padding-right: 3rem;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
     .cover {
         padding-right: 0;
         padding-left: 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .cover {
         padding-top: 5.625rem;
     }
 }

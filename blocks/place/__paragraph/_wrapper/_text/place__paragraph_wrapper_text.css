@@ -1,4 +1,4 @@
-.place__paragraph_text {
+.place__paragraph_wrapper_text {
     line-height: 163%;
     font-style: normal;
     font-weight: 400;
@@ -8,24 +8,23 @@
     box-sizing: border-box;
 }
 
-.place__paragraph_text:nth-of-type(2n) {
+.place__paragraph_wrapper_text:nth-of-type(2n) {
     margin-bottom: 0;
 }
 
-.place__paragraph_text:last-child {
+.place__paragraph_wrapper_text:last-child {
     margin-bottom: 0;
 }
 
 @media screen and (max-width: 768px) {
-    .place__paragraph_text {
+    .place__paragraph_wrapper_text {
         font-size: 16px;
         line-height: 1.625rem;
     }
 }
 
-@media screen and (max-width: 720px) {
-    .place__paragraph_text {
-        width: 288px;
+@media screen and (max-width: 767px) {
+    .place__paragraph_wrapper_text {
         padding-left: 16px;
         margin-bottom: 1.5625rem;
     }

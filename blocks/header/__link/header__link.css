@@ -5,6 +5,10 @@
     color: #FFFFFF;
 }
 
+.header__link:last-child {
+    padding-left: 18px;
+}
+
 .header__link:hover {
     opacity: 0.8;
 }
