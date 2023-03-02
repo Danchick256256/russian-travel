@@ -6,16 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="9993b9b3-f788-423a-8af9-d9add90aae8b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/__list/_thickness/intro__list_thickness_normal.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__list/_accent/intro__list_thickness_normal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__list/_accent/intro__list_thickness_normal.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__list/_accent/intro__list_accent_normal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__list/intro__list.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__list/intro__list.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/intro/__text/intro__text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__text/intro__text.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/intro/intro.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/intro.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/photo-grid/photo-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/photo-grid/photo-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/place/__paragraph/_wrapper/_text/place__paragraph_wrapper_text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__paragraph/_text/place__paragraph_text.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/place/__paragraph/_wrapper/place__paragraph_wrapper.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/place/__title/place__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__title/place__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/places/places.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/places/places.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__paragraph/_text/place__paragraph_text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__paragraph/_text/place__paragraph_text.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/place.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/place.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
@@ -74,7 +70,9 @@
       <workItem from="1676996050781" duration="1519000" />
       <workItem from="1677237031840" duration="523000" />
       <workItem from="1677508818338" duration="4721000" />
-      <workItem from="1677597614630" duration="1691000" />
+      <workItem from="1677597614630" duration="2366000" />
+      <workItem from="1677699792868" duration="593000" />
+      <workItem from="1677758297460" duration="2366000" />
     </task>
     <servers />
   </component>
