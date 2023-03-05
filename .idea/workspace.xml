@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="9993b9b3-f788-423a-8af9-d9add90aae8b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__list/_accent/intro__list_accent_normal.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__span/intro__span.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__paragraph/_text/place__paragraph_text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__text/place__text.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +50,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wdffcz\WebstormProjects\russian-travel\blocks\place" />
+      <recent name="C:\Users\wdffcz\WebstormProjects\russian-travel\blocks\intro\__span" />
       <recent name="C:\Users\wdffcz\WebstormProjects\russian-travel\blocks\place\__paragraph" />
     </key>
   </component>
@@ -66,7 +71,8 @@
       <workItem from="1677597614630" duration="2366000" />
       <workItem from="1677699792868" duration="593000" />
       <workItem from="1677758297460" duration="2711000" />
-      <workItem from="1677930067609" duration="356000" />
+      <workItem from="1677930067609" duration="423000" />
+      <workItem from="1678014026604" duration="805000" />
     </task>
     <servers />
   </component>
